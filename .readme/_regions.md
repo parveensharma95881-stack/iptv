@@ -1,0 +1,42 @@
+- Africa <code>https://iptv-org.github.io/iptv/regions/afr.m3u</code>
+- Americas <code>https://iptv-org.github.io/iptv/regions/amer.m3u</code>
+- Arab world <code>https://iptv-org.github.io/iptv/regions/arab.m3u</code>
+- Asia <code>https://iptv-org.github.io/iptv/regions/asia.m3u</code>
+- Asia-Pacific <code>https://iptv-org.github.io/iptv/regions/apac.m3u</code>
+- Association of Southeast Asian Nations <code>https://iptv-org.github.io/iptv/regions/asean.m3u</code>
+- Balkan <code>https://iptv-org.github.io/iptv/regions/balkan.m3u</code>
+- Benelux <code>https://iptv-org.github.io/iptv/regions/benelux.m3u</code>
+- Caribbean <code>https://iptv-org.github.io/iptv/regions/carib.m3u</code>
+- Central America <code>https://iptv-org.github.io/iptv/regions/cenamer.m3u</code>
+- Central and Eastern Europe <code>https://iptv-org.github.io/iptv/regions/cee.m3u</code>
+- Central Asia <code>https://iptv-org.github.io/iptv/regions/cas.m3u</code>
+- Central Europe <code>https://iptv-org.github.io/iptv/regions/ceu.m3u</code>
+- Commonwealth of Independent States <code>https://iptv-org.github.io/iptv/regions/cis.m3u</code>
+- East Africa <code>https://iptv-org.github.io/iptv/regions/eaf.m3u</code>
+- East Asia <code>https://iptv-org.github.io/iptv/regions/eas.m3u</code>
+- Europe <code>https://iptv-org.github.io/iptv/regions/eur.m3u</code>
+- Europe, the Middle East and Africa <code>https://iptv-org.github.io/iptv/regions/emea.m3u</code>
+- European Union <code>https://iptv-org.github.io/iptv/regions/eu.m3u</code>
+- Gulf Cooperation Council <code>https://iptv-org.github.io/iptv/regions/gcc.m3u</code>
+- Hispanic America <code>https://iptv-org.github.io/iptv/regions/hispam.m3u</code>
+- Latin America <code>https://iptv-org.github.io/iptv/regions/latam.m3u</code>
+- Latin America and the Caribbean <code>https://iptv-org.github.io/iptv/regions/lac.m3u</code>
+- Maghreb <code>https://iptv-org.github.io/iptv/regions/maghreb.m3u</code>
+- Middle East <code>https://iptv-org.github.io/iptv/regions/mideast.m3u</code>
+- Middle East and North Africa <code>https://iptv-org.github.io/iptv/regions/mena.m3u</code>
+- Nordics <code>https://iptv-org.github.io/iptv/regions/nord.m3u</code>
+- North America <code>https://iptv-org.github.io/iptv/regions/noram.m3u</code>
+- Northern America <code>https://iptv-org.github.io/iptv/regions/nam.m3u</code>
+- Northern Europe <code>https://iptv-org.github.io/iptv/regions/neu.m3u</code>
+- Oceania <code>https://iptv-org.github.io/iptv/regions/oce.m3u</code>
+- South America <code>https://iptv-org.github.io/iptv/regions/southam.m3u</code>
+- South Asia <code>https://iptv-org.github.io/iptv/regions/sas.m3u</code>
+- Southeast Asia <code>https://iptv-org.github.io/iptv/regions/sea.m3u</code>
+- Southern Africa <code>https://iptv-org.github.io/iptv/regions/saf.m3u</code>
+- Southern Europe <code>https://iptv-org.github.io/iptv/regions/ser.m3u</code>
+- Sub-Saharan Africa <code>https://iptv-org.github.io/iptv/regions/ssa.m3u</code>
+- United Nations <code>https://iptv-org.github.io/iptv/regions/un.m3u</code>
+- West Africa <code>https://iptv-org.github.io/iptv/regions/waf.m3u</code>
+- West Asia <code>https://iptv-org.github.io/iptv/regions/was.m3u</code>
+- Western Europe <code>https://iptv-org.github.io/iptv/regions/wer.m3u</code>
+- Worldwide <code>https://iptv-org.github.io/iptv/regions/ww.m3u</code>
