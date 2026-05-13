@@ -1,4 +1,3 @@
-Name: update
 on:
   workflow_dispatch:
   schedule:
