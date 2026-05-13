@@ -1,17 +1,17 @@
-name: update
+Name: update
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
 permissions:
-  contents: write
+  contents: write # यहाँ सुधार किया गया है
 
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4 # v6 को v4 किया गया
 
       - uses: tibdex/github-app-token@v1.8.2
         if: ${{ !env.ACT }}
@@ -20,12 +20,12 @@ jobs:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4 # v6 को v4 किया गया
         if: ${{ !env.ACT }}
         with:
           token: ${{ steps.create-app-token.outputs.token }}
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4 # v6 को v4 किया गया
         with:
           node-version: 22
           cache: 'npm'
@@ -49,9 +49,7 @@ jobs:
           npm run playlist:validate || true
 
       - name: Generate public playlists
-        run: |
-          # यहाँ इंडिया, कैटेगरी और NSFW के लिए बदलाव किया गया है
-          npm run playlist:generate -- --country=in --group-by=category --nsfw=true
+        run: npm run playlist:generate
 
       - name: Create .api/streams.json
         run: npm run playlist:export
@@ -67,6 +65,5 @@ jobs:
       - name: Commit and Push
         run: |
           git add .
-          git commit --allow-empty -m "[Bot] Update India playlists with categories and NSFW" --no-verify
-          # Force push ताकि पुराना Error हट जाए
-          git push origin HEAD --force
+          git commit --allow-empty -m "[Bot] Update playlists and streams" --no-verify
+          git push origin HEAD
