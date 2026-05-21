@@ -221,7 +221,6 @@
 - 🇨🇿 Czech Republic <code>https://iptv-org.github.io/iptv/countries/cz.m3u</code>
 - 🇨🇩 Democratic Republic of the Congo <code>https://iptv-org.github.io/iptv/countries/cd.m3u</code>
 - 🇩🇰 Denmark <code>https://iptv-org.github.io/iptv/countries/dk.m3u</code>
-- 🇩🇯 Djibouti <code>https://iptv-org.github.io/iptv/countries/dj.m3u</code>
 - 🇩🇴 Dominican Republic <code>https://iptv-org.github.io/iptv/countries/do.m3u</code>
   - Cibao Noroeste <code>https://iptv-org.github.io/iptv/subdivisions/do-34.m3u</code>
   - Cibao Norte <code>https://iptv-org.github.io/iptv/subdivisions/do-35.m3u</code>
@@ -808,7 +807,6 @@
   - Florida <code>https://iptv-org.github.io/iptv/subdivisions/us-fl.m3u</code>
     - Bradenton <code>https://iptv-org.github.io/iptv/cities/usbbi.m3u</code>
     - Cape Coral <code>https://iptv-org.github.io/iptv/cities/uscc2.m3u</code>
-    - Clermont <code>https://iptv-org.github.io/iptv/cities/uscfw.m3u</code>
     - Coral Gables <code>https://iptv-org.github.io/iptv/cities/uscgb.m3u</code>
     - Daytona Beach <code>https://iptv-org.github.io/iptv/cities/usdab.m3u</code>
     - Fernandina Beach <code>https://iptv-org.github.io/iptv/cities/usfeb.m3u</code>
@@ -838,7 +836,6 @@
     - Duluth <code>https://iptv-org.github.io/iptv/cities/usdga.m3u</code>
     - Kingsland <code>https://iptv-org.github.io/iptv/cities/usknl.m3u</code>
     - Macon <code>https://iptv-org.github.io/iptv/cities/usmcn.m3u</code>
-    - Monroe <code>https://iptv-org.github.io/iptv/cities/usmoe.m3u</code>
   - Hawaii <code>https://iptv-org.github.io/iptv/subdivisions/us-hi.m3u</code>
     - Honolulu <code>https://iptv-org.github.io/iptv/cities/ushnl.m3u</code>
     - Kahului <code>https://iptv-org.github.io/iptv/cities/usogg.m3u</code>
@@ -859,7 +856,6 @@
   - Kentucky <code>https://iptv-org.github.io/iptv/subdivisions/us-ky.m3u</code>
     - Lexington <code>https://iptv-org.github.io/iptv/cities/uslex.m3u</code>
     - Louisville <code>https://iptv-org.github.io/iptv/cities/uslui.m3u</code>
-    - Owensboro <code>https://iptv-org.github.io/iptv/cities/usowb.m3u</code>
   - Louisiana <code>https://iptv-org.github.io/iptv/subdivisions/us-la.m3u</code>
     - Baton Rouge <code>https://iptv-org.github.io/iptv/cities/usbtr.m3u</code>
     - Hammond <code>https://iptv-org.github.io/iptv/cities/ushlo.m3u</code>
@@ -947,7 +943,6 @@
     - Grants Pass <code>https://iptv-org.github.io/iptv/cities/usxfx.m3u</code>
     - Portland <code>https://iptv-org.github.io/iptv/cities/uspdx.m3u</code>
   - Pennsylvania <code>https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u</code>
-    - Allentown <code>https://iptv-org.github.io/iptv/cities/usawn.m3u</code>
     - Harrisburg <code>https://iptv-org.github.io/iptv/cities/ushar.m3u</code>
     - Johnstown <code>https://iptv-org.github.io/iptv/cities/usjst.m3u</code>
     - Lancaster <code>https://iptv-org.github.io/iptv/cities/uslns.m3u</code>
