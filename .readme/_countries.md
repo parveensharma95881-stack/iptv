@@ -878,6 +878,7 @@
     - Battle Creek <code>https://iptv-org.github.io/iptv/cities/usbtl.m3u</code>
     - Detroit <code>https://iptv-org.github.io/iptv/cities/usdet.m3u</code>
     - Kalamazoo <code>https://iptv-org.github.io/iptv/cities/usazo.m3u</code>
+    - Monroe <code>https://iptv-org.github.io/iptv/cities/usmoi.m3u</code>
     - Traverse City <code>https://iptv-org.github.io/iptv/cities/ustvc.m3u</code>
   - Minnesota <code>https://iptv-org.github.io/iptv/subdivisions/us-mn.m3u</code>
     - Apple Valley <code>https://iptv-org.github.io/iptv/cities/usyaw.m3u</code>
