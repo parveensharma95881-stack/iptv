@@ -7,7 +7,7 @@ https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id="6ter.fr@SD",6ter [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
-#EXTINF:-1 tvg-id="24HorasInternacional.es@SD",24 Horas Internacional [Geo-Blocked]
+#EXTINF:-1 tvg-id="24Horas.es@SD",24 Horas [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="AB1.fr@SD",AB1 (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
