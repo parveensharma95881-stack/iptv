@@ -188,6 +188,8 @@
   - La Araucania <code>https://iptv-org.github.io/iptv/subdivisions/cl-ar.m3u</code>
   - Libertador General Bernardo O'Higgins <code>https://iptv-org.github.io/iptv/subdivisions/cl-li.m3u</code>
     - Pichilemu <code>https://iptv-org.github.io/iptv/cities/clplm.m3u</code>
+  - Maule <code>https://iptv-org.github.io/iptv/subdivisions/cl-ml.m3u</code>
+    - Curicó <code>https://iptv-org.github.io/iptv/cities/clcur.m3u</code>
 - 🇨🇳 China <code>https://iptv-org.github.io/iptv/countries/cn.m3u</code>
 - 🇨🇴 Colombia <code>https://iptv-org.github.io/iptv/countries/co.m3u</code>
   - Antioquia <code>https://iptv-org.github.io/iptv/subdivisions/co-ant.m3u</code>
