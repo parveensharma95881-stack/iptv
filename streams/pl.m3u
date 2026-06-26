@@ -141,3 +141,5 @@ https://srv1.adriatelekom.com/4FunTV/index.m3u8
 https://tvpi.travny.workers.dev/tvphistoria.m3u
 #EXTINF:-1 tvg-id="PolsatJimJam.pl@SD",Polsat JimJam (576p)
 https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD",TVP 3 Warszawa (1080p)
+https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpwarszawa.m3u
