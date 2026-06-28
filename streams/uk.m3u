@@ -297,3 +297,5 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 http://193.46.58.239:8080/Channel5/index.m3u8
 #EXTINF:-1 tvg-id="GREATtv.uk@SD",GREAT! tv (576p)
 https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8
+#EXTINF:-1 tvg-id="EpicDrama.uk@Ukraine",Epic Drama Ukraine
+http://195.189.60.253/118/index.m3u8
