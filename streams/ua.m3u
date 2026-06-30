@@ -178,3 +178,5 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/NIKIJunior.m3u8
 #EXTINF:-1 tvg-id="NikiKids.ua@SD",Niki Kids (1080p)
 https://adpnetworkhd-cmd.github.io/iptv/NIKIKids.m3u8
+#EXTINF:-1 tvg-id="MEGOGOSport.ua@SD",MEGOGO Sport (1080p)
+http://5.188.159.128:8070/megogo_sport/index.m3u8
