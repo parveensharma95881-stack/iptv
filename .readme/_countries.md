@@ -299,6 +299,7 @@
     - Ioánnina <code>https://iptv-org.github.io/iptv/cities/grioa.m3u</code>
   - Kentriki Makedonia <code>https://iptv-org.github.io/iptv/subdivisions/gr-b.m3u</code>
     - Giannitsá <code>https://iptv-org.github.io/iptv/cities/grgak.m3u</code>
+    - Kilkís <code>https://iptv-org.github.io/iptv/cities/grkkz.m3u</code>
     - Thessaloníki <code>https://iptv-org.github.io/iptv/cities/grskg.m3u</code>
   - Notio Aigaio <code>https://iptv-org.github.io/iptv/subdivisions/gr-l.m3u</code>
   - Sterea Ellada <code>https://iptv-org.github.io/iptv/subdivisions/gr-h.m3u</code>

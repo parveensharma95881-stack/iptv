@@ -157,3 +157,17 @@ http://62.1.176.18:8888/extra/index.m3u8
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="Channel8.gr@HD",Channel 8 (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="EpilogesTV.gr@SD",Epiloges TV
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.gr@SD",Euro TV (432p)
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="FORMediaTV.gr@SD",FORMedia TV
+https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
+#EXTINF:-1 tvg-id="HlektraTV.gr@SD",Hlektra TV (1080p)
+https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+#EXTINF:-1 tvg-id="KosTV.gr@SD",Kos TV
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 tvg-id="LepantoTV.gr@SD",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr@SD",Messatida TV (720p)
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
