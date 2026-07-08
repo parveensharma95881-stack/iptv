@@ -301,3 +301,9 @@ https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk@HD",BBC Three HD (720p)
 http://41.205.77.102/BBC-THREE/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (720p)
+http://138.121.15.230:9002/BABY-TV/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica",BBC News Latin America (720p)
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
+http://46.32.176.50/bbcworld/index.m3u8

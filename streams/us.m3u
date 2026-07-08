@@ -1187,3 +1187,17 @@ http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="CBS.us@West",CBS West (720p)
 http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us@SD",Buzzr (1080p)
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (720p)
+http://143.14.178.35/TCM-HD/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p)
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us@East",NBC Universo (720p)
+http://187.102.210.46/universo/index.m3u8
