@@ -307,3 +307,5 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
