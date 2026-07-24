@@ -1213,3 +1213,5 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel Latin America (1080p)
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV (1080p)
+http://40.160.24.55/SUNDANCE/index.m3u8
