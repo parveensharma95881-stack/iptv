@@ -53,3 +53,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 tvg-id="HITSMovies.sg@HD",HITS Movies HD (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (720p)
+https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv

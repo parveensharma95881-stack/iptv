@@ -1193,8 +1193,6 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (720p)
 http://143.14.178.35/TCM-HD/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p)
-http://23.237.104.106:8080/USA_GOLF/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
@@ -1215,3 +1213,32 @@ http://tvsen7.aynascope.net/laff/index.m3u8
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV (1080p)
 http://40.160.24.55/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East",FXM (720p)
+https://sra72yz.s.gy/live-view
+#EXTINF:-1 tvg-id="FX.us@West",FX West (1080p)
+https://sra72yz.s.gy/fx-west
+#EXTINF:-1 tvg-id="FXX.us@West",FXX West (720p)
+https://sra72yz.s.gy/fxx-west
+#EXTINF:-1 tvg-id="SYFY.us@West",SYFY West (1080p)
+https://sra72yz.s.gy/syfy-west
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic (720p)
+https://sra72yz.s.gy/starz-encore-classic
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://cdtest.global.ssl.fastly.net/1785070000~03950f07c2e148c063020e0d35ea4497/channel/125/chunks.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@West",Nickelodeon West (1080p)
+https://sra72yz.s.gy/NICK_WEST_US
+#EXTINF:-1 tvg-id="NickJr.us@West",Nick Jr. West (720p)
+https://sra72yz.s.gy/NICK_JR_WEST_US
+#EXTINF:-1 tvg-id="StarzEncore.us@West",Starz Encore West (1080p)
+https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
+#EXTINF:-1 tvg-id="TheMovieChannel.us@West",The Movie Channel West (720p)
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
+#EXTINF:-1 tvg-id="TheMovieChannelXtra.us@West",The Movie Channel Xtra West (1080p)
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
+#EXTINF:-1 tvg-id="MeTVPlus.us@SD",MeTV+ (720p)
+http://40.160.24.53/METV_Plus/index.m3u8
+#EXTINF:-1 tvg-id="PixLTV.us@SD",PixL TV (720p)
+http://40.160.24.55/PIXL/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p)
+https://cdn12.178.indevs.in/163189/dreamworks

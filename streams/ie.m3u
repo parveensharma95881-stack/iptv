@@ -21,3 +21,6 @@ https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGc
 https://xemzi.short.gy/2000006
 #EXTINF:-1 tvg-id="SkySportsGolf.ie@HD",Sky Sports Golf HD (1080p)
 https://xemzi.short.gy/2000009
+#EXTINF:-1 tvg-id="PremierSports1.ie@SD",Premier Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8

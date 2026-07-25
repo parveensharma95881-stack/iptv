@@ -459,3 +459,5 @@ https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
 https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision (576p)
 http://hls127.freeott.top:8080/Motorvision/video.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (576p)
+http://stream.mcquack.net/440/index.m3u8

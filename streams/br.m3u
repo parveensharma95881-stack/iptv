@@ -459,3 +459,7 @@ http://45.177.114.115:80/TERRAVIVA/index.m3u8
 http://170.83.16.50:80/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
 http://170.84.165.204:80/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (720p)
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8

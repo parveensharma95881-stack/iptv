@@ -556,8 +556,6 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 https://bbb.exoadash.com/TVD1561/index.mpd
 #EXTINF:-1 tvg-id="LaLigaHypermotion.es@SD",LaLiga Hypermotion (1080p)
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="LaLigaTV.es@SD",LaLiga TV
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 #EXTINF:-1 tvg-id="TitoTV.es@HD",Tito TV (720p)
 https://cloud.tvomix.com/TITOTV/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionCanaria.es@SD",Television Canaria (576p)
