@@ -1201,8 +1201,6 @@ http://103.72.101.252:8080/live/165.m3u8
 http://103.72.101.252:8080/live/144.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD",Sony Marathi (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD English (1080p) [Geo-blocked]
