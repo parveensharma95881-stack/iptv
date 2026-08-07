@@ -190,7 +190,7 @@
     <tr><td align="left">Turkmen</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tuk.m3u</code></td></tr>
     <tr><td align="left">Uighur</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/uig.m3u</code></td></tr>
     <tr><td align="left">Ukrainian</td><td align="right">74</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ukr.m3u</code></td></tr>
-    <tr><td align="left">Urdu</td><td align="right">80</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/urd.m3u</code></td></tr>
+    <tr><td align="left">Urdu</td><td align="right">79</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/urd.m3u</code></td></tr>
     <tr><td align="left">Uzbek</td><td align="right">28</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/uzb.m3u</code></td></tr>
     <tr><td align="left">Venda</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ven.m3u</code></td></tr>
     <tr><td align="left">Vietnamese</td><td align="right">60</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/vie.m3u</code></td></tr>
@@ -204,6 +204,6 @@
     <tr><td align="left">Yue Chinese</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/yue.m3u</code></td></tr>
     <tr><td align="left">Zarma</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dje.m3u</code></td></tr>
     <tr><td align="left">Zulu</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zul.m3u</code></td></tr>
-    <tr><td align="left">Undefined</td><td align="right">3541</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/undefined.m3u</code></td></tr>
+    <tr><td align="left">Undefined</td><td align="right">3542</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/undefined.m3u</code></td></tr>
   </tbody>
 </table>
