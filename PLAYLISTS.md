@@ -35,7 +35,7 @@ Same thing, but split up into separate files:
     <tr><td>Family</td><td align="right">54</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
     <tr><td>General</td><td align="right">2434</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
     <tr><td>Interactive</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/interactive.m3u</code></td></tr>
-    <tr><td>Kids</td><td align="right">240</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+    <tr><td>Kids</td><td align="right">241</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
     <tr><td>Legislative</td><td align="right">182</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/legislative.m3u</code></td></tr>
     <tr><td>Lifestyle</td><td align="right">95</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/lifestyle.m3u</code></td></tr>
     <tr><td>Movies</td><td align="right">438</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
@@ -52,7 +52,7 @@ Same thing, but split up into separate files:
     <tr><td>Travel</td><td align="right">45</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/travel.m3u</code></td></tr>
     <tr><td>Weather</td><td align="right">16</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/weather.m3u</code></td></tr>
     <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
-    <tr><td>Undefined</td><td align="right">4819</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
+    <tr><td>Undefined</td><td align="right">4818</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
   </tbody>
 </table>
 
@@ -182,7 +182,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">Lahnda</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lah.m3u</code></td></tr>
     <tr><td align="left">Lango (Uganda)</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/laj.m3u</code></td></tr>
     <tr><td align="left">Lao</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lao.m3u</code></td></tr>
-    <tr><td align="left">Latin</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lat.m3u</code></td></tr>
+    <tr><td align="left">Latin</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lat.m3u</code></td></tr>
     <tr><td align="left">Latvian</td><td align="right">8</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lav.m3u</code></td></tr>
     <tr><td align="left">Letzeburgesch</td><td align="right">12</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ltz.m3u</code></td></tr>
     <tr><td align="left">Lingala</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lin.m3u</code></td></tr>

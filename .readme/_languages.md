@@ -107,7 +107,7 @@
     <tr><td align="left">Lahnda</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lah.m3u</code></td></tr>
     <tr><td align="left">Lango (Uganda)</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/laj.m3u</code></td></tr>
     <tr><td align="left">Lao</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lao.m3u</code></td></tr>
-    <tr><td align="left">Latin</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lat.m3u</code></td></tr>
+    <tr><td align="left">Latin</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lat.m3u</code></td></tr>
     <tr><td align="left">Latvian</td><td align="right">8</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lav.m3u</code></td></tr>
     <tr><td align="left">Letzeburgesch</td><td align="right">12</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ltz.m3u</code></td></tr>
     <tr><td align="left">Lingala</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lin.m3u</code></td></tr>
