@@ -251,7 +251,6 @@
 - 🇪🇷 Eritrea <code>https://iptv-org.github.io/iptv/countries/er.m3u</code>
 - 🇪🇪 Estonia <code>https://iptv-org.github.io/iptv/countries/ee.m3u</code>
 - 🇪🇹 Ethiopia <code>https://iptv-org.github.io/iptv/countries/et.m3u</code>
-- 🇫🇴 Faroe Islands <code>https://iptv-org.github.io/iptv/countries/fo.m3u</code>
 - 🇫🇮 Finland <code>https://iptv-org.github.io/iptv/countries/fi.m3u</code>
   - Keski-Suomi <code>https://iptv-org.github.io/iptv/subdivisions/fi-08.m3u</code>
     - Kyyjärvi <code>https://iptv-org.github.io/iptv/cities/fikyy.m3u</code>
