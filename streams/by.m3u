@@ -40,3 +40,5 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://82.209.232.129:10102/0.ts
 #EXTINF:-1 tvg-id="Belarus1.by@HD",Belarus-1 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vitebsk.by@SD",Vitebsk
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
