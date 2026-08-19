@@ -1209,8 +1209,6 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel Latin America (1080p)
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV (1080p)
-http://40.160.24.55/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="FXM.us@East",FXM (720p)
 https://sra72yz.s.gy/live-view
 #EXTINF:-1 tvg-id="FX.us@West",FX West (1080p)
@@ -1236,8 +1234,6 @@ https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
 https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
 #EXTINF:-1 tvg-id="MeTVPlus.us@SD",MeTV+ (720p)
 http://40.160.24.53/METV_Plus/index.m3u8
-#EXTINF:-1 tvg-id="PixLTV.us@SD",PixL TV (720p)
-http://40.160.24.55/PIXL/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p)
 https://cdn12.178.indevs.in/163189/dreamworks
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (720p)
@@ -1248,3 +1244,11 @@ http://23.239.31.26:8989/accnetwork/index.m3u8
 http://190.124.20.69/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (480p)
 http://181.78.106.127:5000/play/a0sa/index.m3u8
+#EXTINF:-1 tvg-id="STV.us@HD",STV (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo (720p)
+http://tvsen7.aynascope.net/bravo/index.m3u8
