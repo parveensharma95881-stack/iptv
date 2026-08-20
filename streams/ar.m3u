@@ -279,3 +279,5 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 http://45.6.4.35/FOX_SPORT/index.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar@SD",Canal 8 San Juan (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
