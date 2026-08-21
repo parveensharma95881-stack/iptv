@@ -55,3 +55,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan",AXN Asia Taiwan (720p)
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
+#EXTINF:-1 tvg-id="HubSports1.sg@SD",Hub Sports 1 (720p)
+https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD",CNA International (576p)
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
