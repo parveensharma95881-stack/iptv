@@ -86,8 +86,6 @@
   - La Paz <code>https://iptv-org.github.io/iptv/subdivisions/bo-l.m3u</code>
   - Oruro <code>https://iptv-org.github.io/iptv/subdivisions/bo-o.m3u</code>
     - Oruro <code>https://iptv-org.github.io/iptv/cities/booru.m3u</code>
-  - Santa Cruz <code>https://iptv-org.github.io/iptv/subdivisions/bo-s.m3u</code>
-    - Santa Cruz de la Sierra <code>https://iptv-org.github.io/iptv/cities/boscs.m3u</code>
 - 🇧🇶 Bonaire <code>https://iptv-org.github.io/iptv/countries/bq.m3u</code>
 - 🇧🇦 Bosnia and Herzegovina <code>https://iptv-org.github.io/iptv/countries/ba.m3u</code>
 - 🇧🇷 Brazil <code>https://iptv-org.github.io/iptv/countries/br.m3u</code>
