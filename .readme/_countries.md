@@ -869,7 +869,6 @@
     - Leominster <code>https://iptv-org.github.io/iptv/cities/uslmr.m3u</code>
     - Lexington <code>https://iptv-org.github.io/iptv/cities/uslxi.m3u</code>
     - Natick <code>https://iptv-org.github.io/iptv/cities/usnak.m3u</code>
-    - Worcester <code>https://iptv-org.github.io/iptv/cities/usorh.m3u</code>
   - Michigan <code>https://iptv-org.github.io/iptv/subdivisions/us-mi.m3u</code>
     - Battle Creek <code>https://iptv-org.github.io/iptv/cities/usbtl.m3u</code>
     - Detroit <code>https://iptv-org.github.io/iptv/cities/usdet.m3u</code>
@@ -940,7 +939,6 @@
     - Grants Pass <code>https://iptv-org.github.io/iptv/cities/usxfx.m3u</code>
     - Portland <code>https://iptv-org.github.io/iptv/cities/uspdx.m3u</code>
   - Pennsylvania <code>https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u</code>
-    - Harrisburg <code>https://iptv-org.github.io/iptv/cities/ushar.m3u</code>
     - Johnstown <code>https://iptv-org.github.io/iptv/cities/usjst.m3u</code>
     - Lancaster <code>https://iptv-org.github.io/iptv/cities/uslns.m3u</code>
     - Philadelphia <code>https://iptv-org.github.io/iptv/cities/usphl.m3u</code>
@@ -951,7 +949,6 @@
     - Providence <code>https://iptv-org.github.io/iptv/cities/uspvd.m3u</code>
   - South Carolina <code>https://iptv-org.github.io/iptv/subdivisions/us-sc.m3u</code>
     - Charleston <code>https://iptv-org.github.io/iptv/cities/uschs.m3u</code>
-    - Columbia <code>https://iptv-org.github.io/iptv/cities/uscae.m3u</code>
     - Florence <code>https://iptv-org.github.io/iptv/cities/usflo.m3u</code>
     - Greenville <code>https://iptv-org.github.io/iptv/cities/usgv9.m3u</code>
   - Tennessee <code>https://iptv-org.github.io/iptv/subdivisions/us-tn.m3u</code>
