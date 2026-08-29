@@ -38,7 +38,7 @@
     <tr><td align="left">Chiga</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/cgg.m3u</code></td></tr>
     <tr><td align="left">Chinese</td><td align="right">210</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zho.m3u</code></td></tr>
     <tr><td align="left">Croatian</td><td align="right">26</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hrv.m3u</code></td></tr>
-    <tr><td align="left">Czech</td><td align="right">28</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ces.m3u</code></td></tr>
+    <tr><td align="left">Czech</td><td align="right">30</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ces.m3u</code></td></tr>
     <tr><td align="left">Danish</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dan.m3u</code></td></tr>
     <tr><td align="left">Dari (Parsi)</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/prd.m3u</code></td></tr>
     <tr><td align="left">Dhivehi</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/div.m3u</code></td></tr>
@@ -47,7 +47,7 @@
     <tr><td align="left">Dutch</td><td align="right">179</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nld.m3u</code></td></tr>
     <tr><td align="left">Dyula</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dyu.m3u</code></td></tr>
     <tr><td align="left">Egyptian Arabic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/arz.m3u</code></td></tr>
-    <tr><td align="left">English</td><td align="right">2328</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
+    <tr><td align="left">English</td><td align="right">2332</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
     <tr><td align="left">Estonian</td><td align="right">7</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/est.m3u</code></td></tr>
     <tr><td align="left">Ewe</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ewe.m3u</code></td></tr>
     <tr><td align="left">Fataleka</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/far.m3u</code></td></tr>
@@ -61,7 +61,7 @@
     <tr><td align="left">Ganda</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lug.m3u</code></td></tr>
     <tr><td align="left">Gen</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gej.m3u</code></td></tr>
     <tr><td align="left">Georgian</td><td align="right">15</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kat.m3u</code></td></tr>
-    <tr><td align="left">German</td><td align="right">288</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/deu.m3u</code></td></tr>
+    <tr><td align="left">German</td><td align="right">289</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/deu.m3u</code></td></tr>
     <tr><td align="left">Gikuyu</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kik.m3u</code></td></tr>
     <tr><td align="left">Goan Konkani</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gom.m3u</code></td></tr>
     <tr><td align="left">Gourmanchéma</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gux.m3u</code></td></tr>
@@ -75,7 +75,7 @@
     <tr><td align="left">Hausa</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hau.m3u</code></td></tr>
     <tr><td align="left">Hebrew</td><td align="right">15</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/heb.m3u</code></td></tr>
     <tr><td align="left">Herero</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/her.m3u</code></td></tr>
-    <tr><td align="left">Hindi</td><td align="right">355</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hin.m3u</code></td></tr>
+    <tr><td align="left">Hindi</td><td align="right">356</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hin.m3u</code></td></tr>
     <tr><td align="left">Hmong</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hmn.m3u</code></td></tr>
     <tr><td align="left">Hungarian</td><td align="right">103</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hun.m3u</code></td></tr>
     <tr><td align="left">Icelandic</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/isl.m3u</code></td></tr>
@@ -84,7 +84,7 @@
     <tr><td align="left">Irish</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gle.m3u</code></td></tr>
     <tr><td align="left">Isekiri</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/its.m3u</code></td></tr>
     <tr><td align="left">Islander Creole English</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/icr.m3u</code></td></tr>
-    <tr><td align="left">Italian</td><td align="right">273</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ita.m3u</code></td></tr>
+    <tr><td align="left">Italian</td><td align="right">276</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ita.m3u</code></td></tr>
     <tr><td align="left">Japanese</td><td align="right">70</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/jpn.m3u</code></td></tr>
     <tr><td align="left">Javanese</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/jav.m3u</code></td></tr>
     <tr><td align="left">Kabiyè</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kbp.m3u</code></td></tr>
@@ -137,7 +137,7 @@
     <tr><td align="left">Nyankole</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nyn.m3u</code></td></tr>
     <tr><td align="left">Nyoro</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nyo.m3u</code></td></tr>
     <tr><td align="left">Oriya (macrolanguage)</td><td align="right">12</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ori.m3u</code></td></tr>
-    <tr><td align="left">Panjabi</td><td align="right">41</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/pan.m3u</code></td></tr>
+    <tr><td align="left">Panjabi</td><td align="right">42</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/pan.m3u</code></td></tr>
     <tr><td align="left">Papiamento</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/pap.m3u</code></td></tr>
     <tr><td align="left">Paraguayan Guaraní</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gug.m3u</code></td></tr>
     <tr><td align="left">Pashto</td><td align="right">24</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/pus.m3u</code></td></tr>
@@ -146,7 +146,7 @@
     <tr><td align="left">Portuguese</td><td align="right">282</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/por.m3u</code></td></tr>
     <tr><td align="left">Pulaar</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fuc.m3u</code></td></tr>
     <tr><td align="left">Quechua</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/que.m3u</code></td></tr>
-    <tr><td align="left">Romanian</td><td align="right">113</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ron.m3u</code></td></tr>
+    <tr><td align="left">Romanian</td><td align="right">116</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ron.m3u</code></td></tr>
     <tr><td align="left">Romany</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/rom.m3u</code></td></tr>
     <tr><td align="left">Russian</td><td align="right">467</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/rus.m3u</code></td></tr>
     <tr><td align="left">Saint Lucian Creole French</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/acf.m3u</code></td></tr>
@@ -161,7 +161,7 @@
     <tr><td align="left">South African Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sfs.m3u</code></td></tr>
     <tr><td align="left">South Ndebele</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nbl.m3u</code></td></tr>
     <tr><td align="left">Southern Samo</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sbd.m3u</code></td></tr>
-    <tr><td align="left">Spanish</td><td align="right">1680</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/spa.m3u</code></td></tr>
+    <tr><td align="left">Spanish</td><td align="right">1681</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/spa.m3u</code></td></tr>
     <tr><td align="left">Spanish Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ssp.m3u</code></td></tr>
     <tr><td align="left">Standard Arabic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/arb.m3u</code></td></tr>
     <tr><td align="left">Sundanese</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sun.m3u</code></td></tr>
@@ -178,7 +178,7 @@
     <tr><td align="left">Tamil</td><td align="right">126</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tam.m3u</code></td></tr>
     <tr><td align="left">Tarifit</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/rif.m3u</code></td></tr>
     <tr><td align="left">Tatar</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tat.m3u</code></td></tr>
-    <tr><td align="left">Telugu</td><td align="right">75</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tel.m3u</code></td></tr>
+    <tr><td align="left">Telugu</td><td align="right">74</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tel.m3u</code></td></tr>
     <tr><td align="left">Thai</td><td align="right">65</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tha.m3u</code></td></tr>
     <tr><td align="left">Tibetan</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bod.m3u</code></td></tr>
     <tr><td align="left">Tigre</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tig.m3u</code></td></tr>
@@ -203,6 +203,6 @@
     <tr><td align="left">Yue Chinese</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/yue.m3u</code></td></tr>
     <tr><td align="left">Zarma</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dje.m3u</code></td></tr>
     <tr><td align="left">Zulu</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zul.m3u</code></td></tr>
-    <tr><td align="left">Undefined</td><td align="right">3566</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/undefined.m3u</code></td></tr>
+    <tr><td align="left">Undefined</td><td align="right">3567</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/undefined.m3u</code></td></tr>
   </tbody>
 </table>

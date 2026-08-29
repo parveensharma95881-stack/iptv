@@ -333,3 +333,9 @@ https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk@Plus1",Nickelodeon +1 (720p)
 https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global (720p)
+http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania",Viasat Epic Drama Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8

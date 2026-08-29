@@ -1302,3 +1302,9 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us@SD",Giggle Mug (576p)
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+#EXTINF:-1 tvg-id="RadiantTV.us@SD",RadiantTV (1080p)
+https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
+#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV (720p)
+http://4.30.180.36:8420/metv/index.m3u8?token=test

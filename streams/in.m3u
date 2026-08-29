@@ -1915,3 +1915,9 @@ https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
 https://tvsen3.aynaott.com/yRMLky2j/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD",Zee 24 Ghanta (576p)
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
+#EXTINF:-1 tvg-id="DeewanaHD.in@SD",Deewana HD (540p)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#EXTINF:-1 tvg-id="DishaTV.in@SD",Disha TV (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD",World Punjabi TV (1080p)
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
