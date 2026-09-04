@@ -179,3 +179,5 @@ https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina
 #EXTVLCOPT:http-referrer=https://latina.pe/
 https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
