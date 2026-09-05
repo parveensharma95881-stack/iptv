@@ -1308,3 +1308,5 @@ https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MeTV.us@SD",MeTV (720p)
 http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="MoreMax.us@East",MoreMax (1080p)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8

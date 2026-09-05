@@ -252,8 +252,6 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in@SD",Good News Today (720p)
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodnessTV.in@SD",Goodness TV (576p)
-https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in@SD",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in@SD",GTC News (1080p)
@@ -955,10 +953,6 @@ http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
 http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in@SD",Manoranjan TV (720p)
 http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD",Goldmines Movies (720p)
-http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (720p)
-http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (720p)
 http://103.213.31.109:90/DDIndia/playlist.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (720p)
@@ -1031,8 +1025,6 @@ https://cdn-4.pishow.tv/live/1470/master.m3u8
 https://cdn-3.pishow.tv/live/1466/master.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV
 https://cdn-2.pishow.tv/live/1464/master.m3u8
-#EXTINF:-1 tvg-id="GSTV.in@SD",GS TV
-https://cdn-4.pishow.tv/live/1462/master.m3u8
 #EXTINF:-1 tvg-id="DharmSandesh.in@SD",Dharm Sandesh
 https://cdn-2.pishow.tv/live/1455/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@SD",Aastha
@@ -1123,8 +1115,6 @@ https://cdn-2.pishow.tv/live/12/master.m3u8
 https://cdn-6.pishow.tv/live/1513/master.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD",News 24 MP & Chhattisgarh (576p)
 https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
-#EXTINF:-1 tvg-id="GospelTVIndia.in@SD",Gospel TV India (720p)
-https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus.in@SD",Samachar Plus
