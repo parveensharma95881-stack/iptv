@@ -526,8 +526,6 @@ https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do@SD",Color Vision (1080p)
 https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8
-#EXTINF:-1 tvg-id="Telesistema11.do@SD",Telesistema 11 (1080p)
-https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:-1 tvg-id="SuperDigitalTV.do@SD",Super Digital TV (1080p) [Not 24/7]
 https://mp.panelchs.com/hls/8032/8032.m3u8
 #EXTINF:-1 tvg-id="TelemediosCanal8.do@SD",Telemedios Canal 8 (1080p) [Not 24/7]
@@ -544,3 +542,5 @@ https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCanalSur.do@SD",TV Canal Sur (720p) [Not 24/7]
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.do@SD",Teleuniverso (720p)
+https://hls.tvabierta.net/hls/029.m3u8

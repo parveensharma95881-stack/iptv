@@ -1372,8 +1372,6 @@ http://103.72.101.252:8080/live/982.m3u8
 http://103.72.101.252:8080/live/980.m3u8
 #EXTINF:-1 tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
 http://103.72.101.252:8080/live/972.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Tamil (1080p)
-http://103.72.101.252:8080/live/579.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in@SD",E-Vidya 10 (576p)
 http://103.72.101.252:8080/live/411.m3u8
 #EXTINF:-1 tvg-id="EVidya9.in@SD",E-Vidya 9 (576p)
