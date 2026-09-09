@@ -825,6 +825,7 @@
     - Derry <code>https://iptv-org.github.io/iptv/cities/usdnp.m3u</code>
     - Nashua <code>https://iptv-org.github.io/iptv/cities/usash.m3u</code>
   - New Jersey <code>https://iptv-org.github.io/iptv/subdivisions/us-nj.m3u</code>
+    - Newark <code>https://iptv-org.github.io/iptv/cities/usewr.m3u</code>
   - New York <code>https://iptv-org.github.io/iptv/subdivisions/us-ny.m3u</code>
     - New York City <code>https://iptv-org.github.io/iptv/cities/usnyc.m3u</code>
   - North Carolina <code>https://iptv-org.github.io/iptv/subdivisions/us-nc.m3u</code>
