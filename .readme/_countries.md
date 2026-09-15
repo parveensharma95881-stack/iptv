@@ -310,6 +310,7 @@
     - Kozhikode <code>https://iptv-org.github.io/iptv/cities/inccj.m3u</code>
   - Maharashtra <code>https://iptv-org.github.io/iptv/subdivisions/in-mh.m3u</code>
   - Tamil Nadu <code>https://iptv-org.github.io/iptv/subdivisions/in-tn.m3u</code>
+    - Alangulam <code>https://iptv-org.github.io/iptv/cities/inagu.m3u</code>
     - Coimbatore <code>https://iptv-org.github.io/iptv/cities/incjb.m3u</code>
     - Dharmapuri <code>https://iptv-org.github.io/iptv/cities/indpi.m3u</code>
     - Kanchipuram <code>https://iptv-org.github.io/iptv/cities/inkcp.m3u</code>
