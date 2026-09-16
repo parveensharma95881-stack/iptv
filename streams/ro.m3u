@@ -208,3 +208,15 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="MireasaExtra.ro@SD",Mireasa Extra
+rtmp://stream1.antenaplay.ro/live/MireasaExtra
+#EXTINF:-1 tvg-id="HappyChannel.ro@SD",Happy Channel
+https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro@SD",Antena 1
+https://live4dai.antenaplay.ro/live2_sport07/live2_sport07_600k.m3u8
+#EXTINF:-1 tvg-id="TraLaLaTV.ro@SD",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro@SD",Antena International
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro@SD",Antena Stars
+https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8

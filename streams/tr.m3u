@@ -492,3 +492,7 @@ http://5.178.103.239:55/yt1/szctv.m3u8
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 #EXTINF:-1 tvg-id="TRTGenc.tr@SD",TRT Genc (1440p)
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD",TRT World (720p)
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD",Bloomberg HT (720p)
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8

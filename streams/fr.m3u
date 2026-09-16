@@ -302,3 +302,13 @@ http://145.239.5.177/320/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
 https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 tvg-id="FashionTVAsia.fr@SD",FashionTV Asia (720p)
+http://58.8.186.128:10006/bysid/2616
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD",Trace Latina (576p)
+https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sport Stars (576p)
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Africanews English (720p)
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8

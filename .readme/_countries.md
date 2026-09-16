@@ -1,5 +1,7 @@
 - 🇦🇫 Afghanistan <code>https://iptv-org.github.io/iptv/countries/af.m3u</code>
 - 🇦🇱 Albania <code>https://iptv-org.github.io/iptv/countries/al.m3u</code>
+  - Fier <code>https://iptv-org.github.io/iptv/subdivisions/al-04.m3u</code>
+    - Fier <code>https://iptv-org.github.io/iptv/cities/alfie.m3u</code>
 - 🇩🇿 Algeria <code>https://iptv-org.github.io/iptv/countries/dz.m3u</code>
 - 🇦🇩 Andorra <code>https://iptv-org.github.io/iptv/countries/ad.m3u</code>
 - 🇦🇴 Angola <code>https://iptv-org.github.io/iptv/countries/ao.m3u</code>
@@ -314,9 +316,11 @@
     - Coimbatore <code>https://iptv-org.github.io/iptv/cities/incjb.m3u</code>
     - Dharmapuri <code>https://iptv-org.github.io/iptv/cities/indpi.m3u</code>
     - Kanchipuram <code>https://iptv-org.github.io/iptv/cities/inkcp.m3u</code>
+    - Nagercoil <code>https://iptv-org.github.io/iptv/cities/inngc.m3u</code>
     - Tenkasi <code>https://iptv-org.github.io/iptv/cities/intks.m3u</code>
     - Thanjavur <code>https://iptv-org.github.io/iptv/cities/intjv.m3u</code>
     - Tiruchirappalli <code>https://iptv-org.github.io/iptv/cities/intri.m3u</code>
+    - Virudhunagar <code>https://iptv-org.github.io/iptv/cities/invgh.m3u</code>
 - 🇮🇩 Indonesia <code>https://iptv-org.github.io/iptv/countries/id.m3u</code>
   - Aceh <code>https://iptv-org.github.io/iptv/subdivisions/id-ac.m3u</code>
   - Bali <code>https://iptv-org.github.io/iptv/subdivisions/id-ba.m3u</code>
@@ -385,14 +389,8 @@
 - 🇨🇮 Ivory Coast <code>https://iptv-org.github.io/iptv/countries/ci.m3u</code>
 - 🇯🇲 Jamaica <code>https://iptv-org.github.io/iptv/countries/jm.m3u</code>
 - 🇯🇵 Japan <code>https://iptv-org.github.io/iptv/countries/jp.m3u</code>
-  - Chiba <code>https://iptv-org.github.io/iptv/subdivisions/jp-12.m3u</code>
-  - Gunma <code>https://iptv-org.github.io/iptv/subdivisions/jp-10.m3u</code>
-  - Ibaraki <code>https://iptv-org.github.io/iptv/subdivisions/jp-08.m3u</code>
-  - Kanagawa <code>https://iptv-org.github.io/iptv/subdivisions/jp-14.m3u</code>
   - Osaka <code>https://iptv-org.github.io/iptv/subdivisions/jp-27.m3u</code>
     - Osaka <code>https://iptv-org.github.io/iptv/cities/jposa.m3u</code>
-  - Saitama <code>https://iptv-org.github.io/iptv/subdivisions/jp-11.m3u</code>
-  - Tochigi <code>https://iptv-org.github.io/iptv/subdivisions/jp-09.m3u</code>
   - Tokyo <code>https://iptv-org.github.io/iptv/subdivisions/jp-13.m3u</code>
     - Tokyo <code>https://iptv-org.github.io/iptv/cities/jptyo.m3u</code>
 - 🇯🇴 Jordan <code>https://iptv-org.github.io/iptv/countries/jo.m3u</code>

@@ -67,3 +67,5 @@ https://mini.allinonereborn.fun/tata.php?id=11608
 https://live.jayatv.lk/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VerbumTV.lk@SD",Verbum TV (1080p)
 https://samson.streamerr.co:8081/verbumtv/index.m3u8
+#EXTINF:-1 tvg-id="ShakthiTV.lk@SD",Shakthi TV (576p)
+https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
