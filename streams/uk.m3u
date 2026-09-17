@@ -346,3 +346,5 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia",BBC News South Asia (720p)
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD",BBC Earth Romania HD (576p)
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8

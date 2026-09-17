@@ -24,3 +24,5 @@ https://xemzi.short.gy/2000006
 https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.ie@SD",Sky Sports Football (720p)
 http://188.138.29.131/skyfootball/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ie@SD",Food Network (576p)
+http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8
