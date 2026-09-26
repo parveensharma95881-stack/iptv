@@ -179,3 +179,7 @@ http://202.60.106.14:21585/214/playlist.m3u8
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD",Arirang TV
 https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
+#EXTINF:-1 tvg-id="KBSNSports.kr@SD",KBS N Sports
+https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
+#EXTINF:-1 tvg-id="SBSGolf.kr@SD",SBS Golf
+https://xyktmobile00.s.gy/PPV922_GOLF_TV
