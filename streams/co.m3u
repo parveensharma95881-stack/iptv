@@ -189,3 +189,5 @@ http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AlertaBogota.co@SD",Alerta Bogota (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://190.60.55.141:9083/play/a0n5/index.m3u8
