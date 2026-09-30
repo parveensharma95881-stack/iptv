@@ -314,3 +314,9 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@Plus1",Nickelodeon +1
 https://bin.webhookrelay.com/v1/webhooks/d6e7ac0a-a984-412b-aab7-7a935ce19b6f
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD",Nickelodeon
+https://masterofiptv.s.gy/iptv2/nickelodeon_fr.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr@SD",Nicktoons
+https://masterofiptv.s.gy/iptv2/nicktoons_fr.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
+https://masterofiptv.s.gy/iptv2/nickelodeon_junior_fr.m3u8

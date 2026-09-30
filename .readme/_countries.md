@@ -766,6 +766,7 @@
     - Fort Myers <code>https://iptv-org.github.io/iptv/cities/usfmy.m3u</code>
     - Fort Pierce <code>https://iptv-org.github.io/iptv/cities/usfpr.m3u</code>
     - Gainesville <code>https://iptv-org.github.io/iptv/cities/usgnv.m3u</code>
+    - Jacksonville <code>https://iptv-org.github.io/iptv/cities/usjax.m3u</code>
     - Key West <code>https://iptv-org.github.io/iptv/cities/useyw.m3u</code>
     - Leesburg <code>https://iptv-org.github.io/iptv/cities/uslee.m3u</code>
     - Miami <code>https://iptv-org.github.io/iptv/cities/usmia.m3u</code>

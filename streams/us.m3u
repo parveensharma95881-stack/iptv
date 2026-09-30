@@ -1410,3 +1410,9 @@ https://xyktmobile00.s.gy/PPV914_GALAVISION
 https://xyktmobile00.s.gy/PPV915_BABYFIR
 #EXTINF:-1 tvg-id="KBSAmerica.us@SD",KBS America
 https://xyktmobile00.s.gy/PPV918_KBSAMERI
+#EXTINF:-1 tvg-id="NBC.us@WTLV",NBC WTLV (1080p)
+http://190.197.41.183/NBC/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WSVN",Fox WSVN (1080p)
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-id="TeleXitos.us@SD",TeleXitos (1080p)
+http://190.197.41.183/TELEXITOS/index.m3u8

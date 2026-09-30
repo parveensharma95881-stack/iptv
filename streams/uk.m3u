@@ -348,3 +348,5 @@ https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD",BBC Earth Romania HD (576p)
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s (576p)
+https://web-primeprimetv2026.onrender.com/playlist.m3u8
