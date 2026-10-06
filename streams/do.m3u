@@ -544,3 +544,5 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
 #EXTINF:-1 tvg-id="Teleuniverso.do@SD",Teleuniverso (720p)
 https://hls.tvabierta.net/hls/029.m3u8
+#EXTINF:-1 tvg-id="ColorVision.do@SD",Color Vision (720p)
+https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8

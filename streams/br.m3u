@@ -461,3 +461,5 @@ http://170.84.165.204:80/CANCAONOVA/index.m3u8
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (720p)
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
