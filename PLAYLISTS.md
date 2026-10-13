@@ -22,23 +22,23 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Animation</td><td align="right">79</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+    <tr><td>Animation</td><td align="right">80</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Auto</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td>Business</td><td align="right">73</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Classic</td><td align="right">49</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
     <tr><td>Comedy</td><td align="right">73</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
     <tr><td>Cooking</td><td align="right">36</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/cooking.m3u</code></td></tr>
-    <tr><td>Culture</td><td align="right">174</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/culture.m3u</code></td></tr>
+    <tr><td>Culture</td><td align="right">175</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/culture.m3u</code></td></tr>
     <tr><td>Documentary</td><td align="right">142</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
     <tr><td>Education</td><td align="right">228</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/education.m3u</code></td></tr>
     <tr><td>Entertainment</td><td align="right">666</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
     <tr><td>Family</td><td align="right">55</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
-    <tr><td>General</td><td align="right">2360</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
+    <tr><td>General</td><td align="right">2361</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
     <tr><td>Interactive</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/interactive.m3u</code></td></tr>
-    <tr><td>Kids</td><td align="right">249</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+    <tr><td>Kids</td><td align="right">251</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
     <tr><td>Legislative</td><td align="right">182</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/legislative.m3u</code></td></tr>
-    <tr><td>Lifestyle</td><td align="right">98</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/lifestyle.m3u</code></td></tr>
-    <tr><td>Movies</td><td align="right">465</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
+    <tr><td>Lifestyle</td><td align="right">97</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/lifestyle.m3u</code></td></tr>
+    <tr><td>Movies</td><td align="right">467</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
     <tr><td>Music</td><td align="right">668</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/music.m3u</code></td></tr>
     <tr><td>News</td><td align="right">968</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/news.m3u</code></td></tr>
     <tr><td>Outdoor</td><td align="right">58</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/outdoor.m3u</code></td></tr>
@@ -113,7 +113,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">Chiga</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/cgg.m3u</code></td></tr>
     <tr><td align="left">Chinese</td><td align="right">211</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zho.m3u</code></td></tr>
     <tr><td align="left">Croatian</td><td align="right">26</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hrv.m3u</code></td></tr>
-    <tr><td align="left">Czech</td><td align="right">31</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ces.m3u</code></td></tr>
+    <tr><td align="left">Czech</td><td align="right">32</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ces.m3u</code></td></tr>
     <tr><td align="left">Danish</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dan.m3u</code></td></tr>
     <tr><td align="left">Dari (Parsi)</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/prd.m3u</code></td></tr>
     <tr><td align="left">Dhivehi</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/div.m3u</code></td></tr>
@@ -122,7 +122,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">Dutch</td><td align="right">179</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nld.m3u</code></td></tr>
     <tr><td align="left">Dyula</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dyu.m3u</code></td></tr>
     <tr><td align="left">Egyptian Arabic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/arz.m3u</code></td></tr>
-    <tr><td align="left">English</td><td align="right">2152</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
+    <tr><td align="left">English</td><td align="right">2153</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
     <tr><td align="left">Estonian</td><td align="right">7</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/est.m3u</code></td></tr>
     <tr><td align="left">Ewe</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ewe.m3u</code></td></tr>
     <tr><td align="left">Fataleka</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/far.m3u</code></td></tr>
@@ -160,7 +160,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">Irish</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gle.m3u</code></td></tr>
     <tr><td align="left">Isekiri</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/its.m3u</code></td></tr>
     <tr><td align="left">Islander Creole English</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/icr.m3u</code></td></tr>
-    <tr><td align="left">Italian</td><td align="right">276</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ita.m3u</code></td></tr>
+    <tr><td align="left">Italian</td><td align="right">277</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ita.m3u</code></td></tr>
     <tr><td align="left">Japanese</td><td align="right">56</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/jpn.m3u</code></td></tr>
     <tr><td align="left">Javanese</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/jav.m3u</code></td></tr>
     <tr><td align="left">Kabiyè</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kbp.m3u</code></td></tr>
@@ -237,7 +237,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">South African Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sfs.m3u</code></td></tr>
     <tr><td align="left">South Ndebele</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nbl.m3u</code></td></tr>
     <tr><td align="left">Southern Samo</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sbd.m3u</code></td></tr>
-    <tr><td align="left">Spanish</td><td align="right">1703</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/spa.m3u</code></td></tr>
+    <tr><td align="left">Spanish</td><td align="right">1708</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/spa.m3u</code></td></tr>
     <tr><td align="left">Spanish Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ssp.m3u</code></td></tr>
     <tr><td align="left">Standard Arabic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/arb.m3u</code></td></tr>
     <tr><td align="left">Sundanese</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sun.m3u</code></td></tr>
