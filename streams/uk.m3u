@@ -301,8 +301,6 @@ http://195.189.60.253/118/index.m3u8
 http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (720p)
 http://138.121.15.230:9002/BABY-TV/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica",BBC News Latin America (720p)
-http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk@SD",Nickelodeon (576p)
@@ -354,3 +352,11 @@ https://web-primeprimetv2026.onrender.com/playlist.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland",Cartoonito CEE Poland (1080p)
 http://57.128.231.171:8080/303/index.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@SD",CNBC Europe (1080p)
+http://57.128.231.171:8080/234/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@Poland",Discovery Science Europe Poland (1080p)
+http://57.128.231.171:8080/279/index.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Poland",BBC First (1080p)
+http://57.128.231.171:8080/306/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Poland",AMC Europe Poland (576i)
+http://57.128.231.171:8080/318/index.m3u8

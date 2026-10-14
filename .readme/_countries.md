@@ -835,6 +835,7 @@
     - Ashland <code>https://iptv-org.github.io/iptv/cities/usasi.m3u</code>
     - Coos Bay <code>https://iptv-org.github.io/iptv/cities/uscob.m3u</code>
     - Grants Pass <code>https://iptv-org.github.io/iptv/cities/usxfx.m3u</code>
+    - Oregon City <code>https://iptv-org.github.io/iptv/cities/usorc.m3u</code>
   - Pennsylvania <code>https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u</code>
     - Philadelphia <code>https://iptv-org.github.io/iptv/cities/usphl.m3u</code>
     - Reading <code>https://iptv-org.github.io/iptv/cities/usrdg.m3u</code>
