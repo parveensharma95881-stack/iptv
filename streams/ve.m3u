@@ -140,3 +140,5 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD",TV Oasis Monay (1080i)
+https://live.teve.pro/live/tvoasis/index.m3u8
