@@ -206,7 +206,6 @@
   - La Altagracia <code>https://iptv-org.github.io/iptv/subdivisions/do-11.m3u</code>
     - Higuey <code>https://iptv-org.github.io/iptv/cities/dohig.m3u</code>
   - La Vega <code>https://iptv-org.github.io/iptv/subdivisions/do-13.m3u</code>
-    - Constanza <code>https://iptv-org.github.io/iptv/cities/dolvc.m3u</code>
   - Monseñor Nouel <code>https://iptv-org.github.io/iptv/subdivisions/do-28.m3u</code>
     - Bonao <code>https://iptv-org.github.io/iptv/cities/dobno.m3u</code>
   - Ozama <code>https://iptv-org.github.io/iptv/subdivisions/do-40.m3u</code>

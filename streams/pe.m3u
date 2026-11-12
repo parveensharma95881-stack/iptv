@@ -185,3 +185,5 @@ https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 https://xyktmobile00.s.gy/PPV909_AMERICA_PERU
 #EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
 http://170.244.209.30:8000/play/a1ib/index.m3u8
+#EXTINF:-1 tvg-id="BicolorPlus.pe@SD",Bicolor+ (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8

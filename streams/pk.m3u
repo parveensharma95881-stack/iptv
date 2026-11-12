@@ -217,3 +217,5 @@ http://103.86.135.164:9981/stream/channelid/1522598263?ticket=8F210F02E7EF3471D4
 https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 #EXTINF:-1 tvg-id="HumTV.pk@SD",Hum TV SD
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+#EXTINF:-1 tvg-id="PaighamTelevision.pk@SD",Paigham Television (576p)
+https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8

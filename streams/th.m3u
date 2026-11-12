@@ -121,3 +121,5 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
 #EXTINF:-1 tvg-id="UmmTV.th@SD",Umm TV
 https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.th@SD",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
