@@ -2468,3 +2468,5 @@ https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 https://samitaorigin.tangotv.in/CHAUKASTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
 http://111.88.7.92:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD",NKR TV Kannada (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8
