@@ -145,3 +145,5 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="KonTumTV.vn@SD",Kon Tum TV (720p)
 https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+#EXTINF:-1 tvg-id="VTV4.vn@HD",VTV4 HD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8

@@ -432,6 +432,7 @@
 - 🇲🇨 Monaco <code>https://iptv-org.github.io/iptv/countries/mc.m3u</code>
 - 🇲🇳 Mongolia <code>https://iptv-org.github.io/iptv/countries/mn.m3u</code>
 - 🇲🇪 Montenegro <code>https://iptv-org.github.io/iptv/countries/me.m3u</code>
+  - Rozaje <code>https://iptv-org.github.io/iptv/subdivisions/me-17.m3u</code>
 - 🇲🇦 Morocco <code>https://iptv-org.github.io/iptv/countries/ma.m3u</code>
 - 🇲🇿 Mozambique <code>https://iptv-org.github.io/iptv/countries/mz.m3u</code>
 - 🇲🇲 Myanmar <code>https://iptv-org.github.io/iptv/countries/mm.m3u</code>
