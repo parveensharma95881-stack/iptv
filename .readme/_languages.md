@@ -170,7 +170,7 @@
     <tr><td align="left">Sundanese</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sun.m3u</code></td></tr>
     <tr><td align="left">Swahili</td><td align="right">20</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/swa.m3u</code></td></tr>
     <tr><td align="left">Swati</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ssw.m3u</code></td></tr>
-    <tr><td align="left">Swedish</td><td align="right">11</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/swe.m3u</code></td></tr>
+    <tr><td align="left">Swedish</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/swe.m3u</code></td></tr>
     <tr><td align="left">Tachawit</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/shy.m3u</code></td></tr>
     <tr><td align="left">Tachelhit</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/shi.m3u</code></td></tr>
     <tr><td align="left">Tagalog</td><td align="right">12</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/tgl.m3u</code></td></tr>
