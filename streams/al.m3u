@@ -55,3 +55,5 @@ http://5.254.89.106/8708/index.m3u8
 http://5.254.89.106/8718/index.m3u8
 #EXTINF:-1 tvg-id="FieriTv.al@HD",Fieri Tv (720p)
 http://valashop.online:8090/fieritv.m3u8
+#EXTINF:-1 tvg-id="FieriTv.al@HD",Fieri Tv (1080p)
+https://live.fieritv.com/hls/fieritv/index.m3u8

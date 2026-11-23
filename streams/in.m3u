@@ -2470,3 +2470,5 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 http://116.90.120.149:8000/play/a128/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (576p)
 http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="MahimaiTV.in@SD",Mahimai TV (1080p)
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
