@@ -580,6 +580,8 @@
   - Ulsan-gwangyeoksi <code>https://iptv-org.github.io/iptv/subdivisions/kr-31.m3u</code>
     - Ulsan <code>https://iptv-org.github.io/iptv/cities/krusn.m3u</code>
 - 🇪🇸 Spain <code>https://iptv-org.github.io/iptv/countries/es.m3u</code>
+  - A Coruña <code>https://iptv-org.github.io/iptv/subdivisions/es-c.m3u</code>
+    - Santiago de Compostela <code>https://iptv-org.github.io/iptv/cities/esscq.m3u</code>
   - Andalucía <code>https://iptv-org.github.io/iptv/subdivisions/es-an.m3u</code>
   - Aragón <code>https://iptv-org.github.io/iptv/subdivisions/es-ar.m3u</code>
   - Barcelona <code>https://iptv-org.github.io/iptv/subdivisions/es-b.m3u</code>
