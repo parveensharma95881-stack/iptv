@@ -107,6 +107,7 @@
     - Rondonópolis <code>https://iptv-org.github.io/iptv/cities/brroo.m3u</code>
     - Sinop <code>https://iptv-org.github.io/iptv/cities/brsin.m3u</code>
   - Minas Gerais <code>https://iptv-org.github.io/iptv/subdivisions/br-mg.m3u</code>
+    - Ipatinga <code>https://iptv-org.github.io/iptv/cities/bripn.m3u</code>
     - Mutum <code>https://iptv-org.github.io/iptv/cities/brmuu.m3u</code>
     - Uberlândia <code>https://iptv-org.github.io/iptv/cities/brudi.m3u</code>
     - Viçosa <code>https://iptv-org.github.io/iptv/cities/brvis.m3u</code>
